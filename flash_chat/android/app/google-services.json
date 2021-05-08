@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "738945628688",
+    "project_id": "flash-chat-f3bc9",
+    "storage_bucket": "flash-chat-f3bc9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:738945628688:android:6a1326bc1395649f7da895",
+        "android_client_info": {
+          "package_name": "com.blue314.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "738945628688-bffiea682cdq299bf5mmbhijvvadjuih.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGz53cH4o5B60MbwTLQ632QkEBFqnGyM8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "738945628688-bffiea682cdq299bf5mmbhijvvadjuih.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
